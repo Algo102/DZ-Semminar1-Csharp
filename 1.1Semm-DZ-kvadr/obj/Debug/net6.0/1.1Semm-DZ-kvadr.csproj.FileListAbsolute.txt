@@ -1,0 +1,15 @@
+C:\Users\Algor\Desktop\ГикБрайнс\1 четверть\Знакомство с языками программирования\Семминары\1\DZ-Semminar1-C#\1.1Semm-DZ-kvadr\bin\Debug\net6.0\1.1Semm-DZ-kvadr.exe
+C:\Users\Algor\Desktop\ГикБрайнс\1 четверть\Знакомство с языками программирования\Семминары\1\DZ-Semminar1-C#\1.1Semm-DZ-kvadr\bin\Debug\net6.0\1.1Semm-DZ-kvadr.deps.json
+C:\Users\Algor\Desktop\ГикБрайнс\1 четверть\Знакомство с языками программирования\Семминары\1\DZ-Semminar1-C#\1.1Semm-DZ-kvadr\bin\Debug\net6.0\1.1Semm-DZ-kvadr.runtimeconfig.json
+C:\Users\Algor\Desktop\ГикБрайнс\1 четверть\Знакомство с языками программирования\Семминары\1\DZ-Semminar1-C#\1.1Semm-DZ-kvadr\bin\Debug\net6.0\1.1Semm-DZ-kvadr.dll
+C:\Users\Algor\Desktop\ГикБрайнс\1 четверть\Знакомство с языками программирования\Семминары\1\DZ-Semminar1-C#\1.1Semm-DZ-kvadr\bin\Debug\net6.0\1.1Semm-DZ-kvadr.pdb
+C:\Users\Algor\Desktop\ГикБрайнс\1 четверть\Знакомство с языками программирования\Семминары\1\DZ-Semminar1-C#\1.1Semm-DZ-kvadr\obj\Debug\net6.0\1.1Semm-DZ-kvadr.csproj.AssemblyReference.cache
+C:\Users\Algor\Desktop\ГикБрайнс\1 четверть\Знакомство с языками программирования\Семминары\1\DZ-Semminar1-C#\1.1Semm-DZ-kvadr\obj\Debug\net6.0\1.1Semm-DZ-kvadr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Algor\Desktop\ГикБрайнс\1 четверть\Знакомство с языками программирования\Семминары\1\DZ-Semminar1-C#\1.1Semm-DZ-kvadr\obj\Debug\net6.0\1.1Semm-DZ-kvadr.AssemblyInfoInputs.cache
+C:\Users\Algor\Desktop\ГикБрайнс\1 четверть\Знакомство с языками программирования\Семминары\1\DZ-Semminar1-C#\1.1Semm-DZ-kvadr\obj\Debug\net6.0\1.1Semm-DZ-kvadr.AssemblyInfo.cs
+C:\Users\Algor\Desktop\ГикБрайнс\1 четверть\Знакомство с языками программирования\Семминары\1\DZ-Semminar1-C#\1.1Semm-DZ-kvadr\obj\Debug\net6.0\1.1Semm-DZ-kvadr.csproj.CoreCompileInputs.cache
+C:\Users\Algor\Desktop\ГикБрайнс\1 четверть\Знакомство с языками программирования\Семминары\1\DZ-Semminar1-C#\1.1Semm-DZ-kvadr\obj\Debug\net6.0\1.1Semm-DZ-kvadr.dll
+C:\Users\Algor\Desktop\ГикБрайнс\1 четверть\Знакомство с языками программирования\Семминары\1\DZ-Semminar1-C#\1.1Semm-DZ-kvadr\obj\Debug\net6.0\refint\1.1Semm-DZ-kvadr.dll
+C:\Users\Algor\Desktop\ГикБрайнс\1 четверть\Знакомство с языками программирования\Семминары\1\DZ-Semminar1-C#\1.1Semm-DZ-kvadr\obj\Debug\net6.0\1.1Semm-DZ-kvadr.pdb
+C:\Users\Algor\Desktop\ГикБрайнс\1 четверть\Знакомство с языками программирования\Семминары\1\DZ-Semminar1-C#\1.1Semm-DZ-kvadr\obj\Debug\net6.0\1.1Semm-DZ-kvadr.genruntimeconfig.cache
+C:\Users\Algor\Desktop\ГикБрайнс\1 четверть\Знакомство с языками программирования\Семминары\1\DZ-Semminar1-C#\1.1Semm-DZ-kvadr\obj\Debug\net6.0\ref\1.1Semm-DZ-kvadr.dll
